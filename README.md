@@ -118,7 +118,7 @@ Java와 Python을 기반으로 백엔드 시스템과 모바일 앱을 개발해
   → ISBM 2023 발표 / Oral / 1저자
 
 - *Speech-Recognizing KIOSK Mobile Application for the Visually Impaired*  
-  → ICETC 2022 발표 / Poster
+  → ICETC 2022 발표 / Poster / 1저자
 
 ---
 
