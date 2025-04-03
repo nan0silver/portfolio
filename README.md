@@ -18,7 +18,7 @@ Java와 Python을 기반으로 백엔드 시스템과 모바일 앱을 개발해
 ## 🛠 기술 스택
 
 - **언어**: Java, Python, SQL  
-- **프레임워크**: Spring, Flask, Jinja, Flutter (기초)  
+- **프레임워크**: Spring, Flask, Jinja, Flutter
 - **DevOps**: Docker, GitHub Actions  
 - **데이터베이스**: Supabase, Firebase, MySQL  
 - **기타**: Git, Postman, OpenCV, Figma  
